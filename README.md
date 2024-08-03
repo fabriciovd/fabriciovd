@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&multiline=true&width=435&lines=Yavor+Petkov;Node Backend developer-> Express with MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&color=006201&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Yavor+Petkov;Backend+developer;(node)+%3D%3E+Express+%2B+MongoDB+)](https://git.io/typing-svg)
 <!--
 **fabriciovd/fabriciovd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
